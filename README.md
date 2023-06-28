@@ -1,1 +1,3 @@
-# hospital-mortality-prediction-SQL
+# Hospital Mortality Prediction Project
+
+##### Tools Used: Excel, MySQL, Tableau
