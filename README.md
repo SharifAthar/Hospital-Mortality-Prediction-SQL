@@ -44,7 +44,13 @@ In the second output where death results are shown for each ICU type, there is a
 
 ![Q6](https://i.ibb.co/5cCNgyW/Screen-Shot-2023-06-29-at-8-32-29-PM.png)
 
+Average weight, BMI, and max heart rate among the patients that died. 
+
 The average weight of 67.57 suggests that, on average, the patients who passed away had a relatively moderate weight. The average BMI of 23.3 indicates that, on average, the patients who died had a BMI within the normal range. This suggests that weight alone may not be the sole determinant of mortality, as individuals with a normal BMI can also face significant health risks and complications leading to hospital death. The average maximum heart rate of 115.1 highlights a potential cardiovascular aspect in the patients' health profiles. Elevated heart rates can be indicative of underlying conditions ([source](https://www.mayoclinic.org/diseases-conditions/tachycardia/symptoms-causes/syc-20355127)), such as cardiac distress or organ failure, which might have contributed to the hospital mortality outcomes observed.
 
+6: 
 
+![Q7](https://i.ibb.co/GHb3dnT/Screen-Shot-2023-06-29-at-8-48-21-PM.png)
+
+There were a total of 8 comorbidities in the dataset, and the 3 shown in the output results above (Diabetes, Immunosuppression, and Solid Tumor) had the highest probability of death with diabetes being the highest, by far. This highlights the importance of managing and monitoring this condition effectively during hospitalization.
 
