@@ -30,9 +30,21 @@ This output showed the amount of patients that died and survived in each age gro
 
 This output further proves that the death probability of a patient in the hospital rises as they get older.
 
+4:
 
+![Q4](https://i.ibb.co/54ZBMBH/Screen-Shot-2023-06-29-at-8-08-53-PM.png)
 
+![Q5](https://i.ibb.co/mJB1cxY/Screen-Shot-2023-06-29-at-8-09-28-PM.png)
 
+These two outputs give more insight to the outcomes of patients in each ICU admit source & type. A vast majority of the patients were admitted to the "Accident & Emergency" ICU admit source and it also experienced the highest number of deaths. However, the ICU admit source with the highest probability of death was "Floor" with a percentage of 11.76. "Other ICU" was ignored because of its very small sample size. 
+
+In the second output where death results are shown for each ICU type, there is a clear outlier: Med-Surg ICU
+
+5:
+
+![Q6](https://i.ibb.co/5cCNgyW/Screen-Shot-2023-06-29-at-8-32-29-PM.png)
+
+The average weight of 67.57 suggests that, on average, the patients who passed away had a relatively moderate weight. The average BMI of 23.3 indicates that, on average, the patients who died had a BMI within the normal range. This suggests that weight alone may not be the sole determinant of mortality, as individuals with a normal BMI can also face significant health risks and complications leading to hospital death. The average maximum heart rate of 115.1 highlights a potential cardiovascular aspect in the patients' health profiles. Elevated heart rates can be indicative of underlying conditions ([source](https://www.mayoclinic.org/diseases-conditions/tachycardia/symptoms-causes/syc-20355127)), such as cardiac distress or organ failure, which might have contributed to the hospital mortality outcomes observed.
 
 
 
