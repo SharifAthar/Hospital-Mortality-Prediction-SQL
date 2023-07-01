@@ -54,3 +54,8 @@ The average weight of 67.57 suggests that, on average, the patients who passed a
 
 There were a total of 8 comorbidities in the dataset, and the 3 shown in the output results above (Diabetes, Immunosuppression, and Solid Tumor) had the highest probability of death with diabetes being the highest, by far. This highlights the importance of managing and monitoring this condition effectively during hospitalization.
 
+7: 
+
+![Q8](https://i.ibb.co/Tkc9RVr/Screen-Shot-2023-07-01-at-2-56-23-PM.png)
+
+Generally speaking, and as shown by this output, prolonged stays in the ICU are associated with higher mortality rates ([source](https://pubmed.ncbi.nlm.nih.gov/26571190/#:~:text=One%2Dyear%20mortality%20was%2026.6,the%20need%20for%20mechanical%20ventilation.)). An increased length of stay in the ICU can be due to a number of reasons, such as cardiovascular system diseases, nervous system diseases, infections, underlying illnesses, and increased exposure to potential complications ([source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5884409/#:~:text=Our%20study%20showed%20a%20significantly,the%20length%20of%20stay%20increases.)). According to this output, a patient who stayed in the ICU for longer than a day had a higher chance of death compared to someone who spent less than a day in the ICU. 
