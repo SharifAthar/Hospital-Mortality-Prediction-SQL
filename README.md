@@ -1,5 +1,7 @@
 # <p align="center">Hospital Mortality Prediction Project</p>
 
+# <p align="center"> ![pic](https://media.istockphoto.com/id/1194838627/vector/patient-in-hospital.jpg?s=612x612&w=0&k=20&c=LqhY8qXr1IgGA0PjGLwqEyVJL-MBTFBU5rf3Dcg4DWo=) </p>
+
 #### **Tools Used**: Excel, MySQL, Tableau
 
 [Dataset Used](https://www.kaggle.com/datasets/mitishaagarwal/patient)
